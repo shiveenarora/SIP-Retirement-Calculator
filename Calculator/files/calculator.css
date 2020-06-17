@@ -1,0 +1,13 @@
+.heading{
+    font-weight: bold;
+    text-align: center;
+}
+
+.submit{
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    border: none;
+    font-size: 16px;
+}
